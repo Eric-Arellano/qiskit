@@ -20,6 +20,7 @@ from pathlib import Path
 TERRA_FILES = []
 TERRA_DIRS = [
     "apidoc",
+    "how_to",
     "migration_guides",
     "_templates",
     "source_images",

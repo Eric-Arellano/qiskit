@@ -118,6 +118,7 @@ Interested in quantum hardware design?
    getting_started
    intro_tutorial1
    tutorials
+   How-to Guides <how_to/index>
    API Reference <apidoc/terra>
    Migration Guides <migration_guides/index>
    release_notes
